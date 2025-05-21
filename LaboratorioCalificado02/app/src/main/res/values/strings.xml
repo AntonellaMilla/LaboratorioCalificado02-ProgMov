@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado02</string>
+    <string name="titulo_examen">Examen Calificado 02</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="ocultar">Ocultar</string>
+</resources>
